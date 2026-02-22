@@ -2,13 +2,20 @@
 
 A complete, machine-readable JSON dataset of the **Gur Shabad Ratanakar Mahan Kosh**, the foundational encyclopedia of Sikh literature, compiled by **Bhai Kahn Singh Nabha**.
 
-## 📖 About the Mahan Kosh
-The *Mahan Kosh* is an unparalleled reference work for the Punjabi language and Sikh theology. It was completed in 1926 and first published in 1930. Covering over 60,000 entries, it provides etymologies, historical contexts, and definitions for terms found in the Guru Granth Sahib and related literature.
+## 🖋️ Behind the Masterpiece: Bhai Kahn Singh Nabha (1861–1938)
+The *Mahan Kosh* is not just a dictionary; it is a monumental feat of individual scholarship. **Bhai Kahn Singh Nabha**, a towering figure in Sikh intellectual history, dedicated **14 years** (1912–1926) to its compilation. 
+
+To ensure the work's completion, he resigned from his high-ranking state services (including roles as a foreign minister and judge) to work full-time on this "encyclopedia of Sikh literature." 
+
+- **Monumental Effort**: The research spanned 14 years, culminating in a manuscript completed in February 1926.
+- **Historic Publication**: First printed in 1927 and released in four magnificent volumes in 1930.
+- **Academic Rigor**: It contains over 64,000 entries, providing etymologies derived from Sanskrit, Arabic, Persian, and various Indian vernaculars.
+- **Legacy**: It remains the ultimate authority for scholars, researchers, and seekers of the Guru Granth Sahib's wisdom.
 
 ## 🚀 Dataset Overview
 This repository provides the full Mahan Kosh as a single audited JSON file and sharded alphabet-based files for high-performance developer integration.
 
-- **Total Entries**: 63,622
+- **Total Entries**: 63,622 (Audited & Verified)
 - **Formats**: Single JSON and Sharded (A-Z) JSON
 - **Fields**: 
   - `id`: Unique identifier
